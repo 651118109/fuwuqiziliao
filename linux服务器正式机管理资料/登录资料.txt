@@ -1,0 +1,5 @@
+Bt-Panel: http://39.107.60.124:8888
+
+username: admin
+
+password: a7e5b235
