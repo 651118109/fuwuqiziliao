@@ -13,4 +13,3 @@ mstsc /admin /v:123.57.70.219
 
 
 
-mstsc /admin /v:47.93.13.15

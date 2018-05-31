@@ -1,0 +1,6 @@
+47.95.36.40 root/zang#159
+
+
+wdcp:
+http://47.95.36.40:8080/index
+安装完后默认账号：admin;密码：wdlinux.cn
