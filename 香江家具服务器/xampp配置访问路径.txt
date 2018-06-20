@@ -1,1 +1,8 @@
 C:\xampp\apache\conf\extra\httpd-vhosts.conf
+
+
+
+<VirtualHost *:80>
+DocumentRoot   /xampp/htdocs/xjjj
+ServerName  www.syxihome.com
+</VirtualHost>
